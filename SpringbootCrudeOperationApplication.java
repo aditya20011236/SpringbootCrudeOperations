@@ -1,0 +1,13 @@
+package com.example.springbootcrudeoperation;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringbootCrudeOperationApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringbootCrudeOperationApplication.class, args);
+	}
+
+}
